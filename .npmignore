@@ -1,0 +1,17 @@
+# git
+.git
+
+# git ignore
+.gitignore
+
+# source code
+src/
+
+# eslint config
+.eslintrc.js
+
+# semantic-release config
+.releaserc
+
+# github actions
+.github/
